@@ -6,6 +6,4 @@ for i in range(97, 123):
 
         continue
 
-    else:
-
-        print("{}".format(chr(i)), end='')
+    print("{}".format(chr(i)), end='')
